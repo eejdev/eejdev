@@ -8,7 +8,7 @@ Currently exploring generative AI, model development, and the philosophy of huma
 
 - Pages [eejdev.github.io](https://eejdev.github.io)
 - Read more: [About Me](https://eejdev.github.io/about)
-- Socials: [BlueSky](https://bsky.app/profile/eejdev.bsky.social)
+- Socials: [Mastodon](https://mastodon.social/@eejdev)
 
 ---
 
